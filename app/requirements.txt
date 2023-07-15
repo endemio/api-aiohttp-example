@@ -1,0 +1,12 @@
+aiohttp
+aiohttp_basicauth
+aiohttp-swagger[performance]
+aiohttp_tokenauth
+
+pytest-aiohttp
+
+async-timeout
+fluent-logger
+python-dateutil
+python-dotenv
+requests
